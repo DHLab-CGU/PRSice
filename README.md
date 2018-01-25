@@ -2,7 +2,9 @@
 
 ## PRSice參考資料
 https://github.com/choishingwan/PRSice/wiki/step-by-step-tutorial
+
 https://github.com/choishingwan/PRSice/wiki/Running-PRSice
+
 http://prsice.info/
 
 ## PRSice安裝
