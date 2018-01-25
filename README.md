@@ -1,5 +1,11 @@
 # PRSice
 
+## PRSice參考資料
+https://github.com/choishingwan/PRSice/wiki/step-by-step-tutorial
+https://github.com/choishingwan/PRSice/wiki/Running-PRSice
+http://prsice.info/
+
+## PRSice安裝
 1. 連上VPN (說明請看[實驗室網路介紹](https://github.com/DHLab-CGU/Resources-Private/blob/master/Network.md)，需登入)
 2. download PuTTY並打開，連上伺服器
 3. IP: 192.168.1.5 (SSH)
@@ -11,8 +17,8 @@ wget https://github.com/choishingwan/PRSice/releases/download/2.1.0.beta/PRSice_
 unzip PRSice_linux.zip -d PRSice
 cd PRSice
 ```
-
-6. PRSice first try
+## PRSice使用
+PRSice first try
 
 ```
 Rscript PRSice.R --dir . --prsice PRSice_linux --base TOY_BASE_GWAS.assoc --target TOY_TARGET_DATA
