@@ -38,5 +38,5 @@ Rscript PRSice.R --dir . --prsice PRSice_linux --base TOY_BASE_GWAS.assoc --targ
   - PRSice_BARPLOT_2018-01-25.png
   - PRSice_HIGH-RES_PLOT_2018-01-25.png
 
-!(PRSice_BARPLOT_2018-01-25.png)
-!(PRSice_HIGH-RES_PLOT_2018-01-25.png)
+![](PRSice_BARPLOT_2018-01-25.png)
+![](PRSice_HIGH-RES_PLOT_2018-01-25.png)
