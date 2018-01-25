@@ -17,7 +17,7 @@ http://prsice.info/
 cd c:/PRSice
 Rscript PRSice.R --dir . --prsice PRSice_win64.exe --base TOY_BASE_GWAS.assoc --target TOY_TARGET_DATA
 ```
-5.到 c:/PRSice找跑出來的結果
+5. 到 c:/PRSice找跑出來的結果
 
 ## Linux
 
