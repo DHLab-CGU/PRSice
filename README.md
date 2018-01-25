@@ -1,6 +1,6 @@
 # PRSice
 
-1. VPN
+1. 連上VPN (說明請看Resources-Private)
 2. download PuTTY
 3. IP: 192.168.1.5 (SSH)
 4. log in
@@ -29,6 +29,7 @@ Rscript PRSice.R --dir . --prsice PRSice_linux --base TOY_BASE_GWAS.assoc --targ
   - 執行該目錄下的WinSCP.exe檔就能開始使用
   - 如果還是語言還是英文的話在環境設定中點選"Languages"，再選取繁體中文即可完成語言設定
   - IP: 192.168.1.5
+  - log in
 
 - 點選PRSice資料夾
 - 將所需檔案拉到左邊相對應本機端
@@ -36,4 +37,6 @@ Rscript PRSice.R --dir . --prsice PRSice_linux --base TOY_BASE_GWAS.assoc --targ
   - PRSice.summary
   - PRSice_BARPLOT_2018-01-25.png
   - PRSice_HIGH-RES_PLOT_2018-01-25.png
-  
+
+!(PRSice_BARPLOT_2018-01-25.png)
+!(PRSice_HIGH-RES_PLOT_2018-01-25.png)
