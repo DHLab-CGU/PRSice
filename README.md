@@ -1,6 +1,6 @@
 # PRSice
 
-1. 連上VPN (說明請看Resources-Private)
+1. 連上VPN (說明請看[實驗室網路介紹](https://github.com/DHLab-CGU/Resources-Private/blob/master/Network.md)，需登入)
 2. download PuTTY並打開，連上伺服器
 3. IP: 192.168.1.5 (SSH)
 4. login
