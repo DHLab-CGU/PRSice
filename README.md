@@ -11,7 +11,7 @@ http://prsice.info/
 
 1. 下載[PRSice for Windows](https://github.com/choishingwan/PRSice/releases/download/2.1.0.beta/PRSice_win64.zip)
 2. 解壓縮到C槽的PRSice資料夾
-3. 設定環境變數，對著**我的電腦**或**本機**按右鍵，選擇**內容**，點選左邊**進階系統設定**，選擇下方**環境變數**，在PATH中，新增Rscrpit的位置。以我的電腦為例，是`C:\Program Files\Microsoft\R Open\R-3.4.0\bin`，普通的R應該是`C:\Program Files\R\R-3.3.2\bin`，版本碼跟位置因電腦而異
+3. 設定環境變數，對著**我的電腦**或**本機**按右鍵，選擇**內容**，點選左邊**進階系統設定**，選擇下方**環境變數**，在PATH中，新增Rscrpit.exe的位置。以我的電腦為例，是`C:\Program Files\Microsoft\R Open\R-3.4.0\bin`，普通的R應該是`C:\Program Files\R\R-3.3.2\bin`，版本碼跟位置因電腦而異
 4. 打開cmd，輸入以下指令
 ```
 cd c:/PRSice
